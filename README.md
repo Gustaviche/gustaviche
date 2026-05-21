@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="bannieres" src="https://github.com/user-attachments/assets/db58086a-e2d7-42bd-8ae3-6e22e017c25f" />
+
 # 👋 Hi, I'm Alex Gaumont
 
 I'm a Data Analyst passionate about turning data into clear insights, useful dashboards and AI-powered tools.
